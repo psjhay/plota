@@ -1,6 +1,6 @@
 # plota_app
 
-This is an app that help a user plot a 2- dimensional dataset that has the comma (,) as it's delimeter.
+This is an app that help a user plot a 2- dimensional dataset that has the comma (,) as it's dilimeter.
 
 The user interface has three buttons
 
